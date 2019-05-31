@@ -1,3 +1,5 @@
+/*******************************************************************/
+/* General styles */
 .jumbotron {
     background-image: url("https://picsum.photos/1920/1080/?random");
     background-size: cover;
@@ -20,4 +22,46 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Rubik', sans-serif;
+}
+
+/*******************************************************************/
+/* Members styles */
+.st-member-card {
+    width: 300px;
+    border: none;
+    padding-top: 55px;
+}
+
+.st-member-card-img {
+    width: 230px;
+    height: 230px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    border-radius: 50%;
+}
+
+.st-member-img-0 {
+    background-image: url("https://picsum.photos/512/?random");
+}
+
+.st-member-img-1 {
+    background-image: url("https://picsum.photos/512/?random");
+}
+
+.st-member-img-2 {
+    background-image: url("https://picsum.photos/512/?random");
+}
+
+.st-member-title {
+    font-size: 1.125rem;
+    color: black;
+}
+
+.st-member-text {
+    font-size: 0.9375rem;
+}
+
+.st-member-subtitle {
+    font-size: 0.9375rem;
 }
