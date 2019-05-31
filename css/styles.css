@@ -24,12 +24,40 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Rubik', sans-serif;
 }
 
+h2 {
+    margin-bottom: 55px;
+}
+
+textarea {
+    resize: none;
+}
+
+/*******************************************************************/
+/* About us styles */
+.st-carousel-img-0 {
+    background-image: url("https://picsum.photos/1024/576/");
+}
+
+.st-carousel-img-1 {
+    background-image: url("https://picsum.photos/1024/575/");
+}
+
+.st-carousel-img-2 {
+    background-image: url("https://picsum.photos/1024/574/");
+}
+
+.st-carousel-image {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 300px;
+}
+
 /*******************************************************************/
 /* Members styles */
 .st-member-card {
     width: 300px;
     border: none;
-    padding-top: 55px;
 }
 
 .st-member-card-img {
@@ -37,20 +65,20 @@ h1, h2, h3, h4, h5, h6 {
     height: 230px;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: auto;
+    background-size: cover;
     border-radius: 50%;
 }
 
 .st-member-img-0 {
-    background-image: url("https://picsum.photos/512/?random");
+    background-image: url("../img/marco.jpg");
 }
 
 .st-member-img-1 {
-    background-image: url("https://picsum.photos/512/?random");
+    background-image: url("../img/slam.jpg");
 }
 
 .st-member-img-2 {
-    background-image: url("https://picsum.photos/512/?random");
+    background-image: url("../img/moises.jpg");
 }
 
 .st-member-title {
@@ -64,4 +92,15 @@ h1, h2, h3, h4, h5, h6 {
 
 .st-member-subtitle {
     font-size: 0.9375rem;
+}
+
+.st-social-button {
+    color: white;
+    margin: 0 5px;
+}
+
+/*******************************************************************/
+/* Footer styles */
+.st-social-button:hover {
+    color: lightgray;
 }
