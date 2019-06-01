@@ -1,10 +1,12 @@
 /*******************************************************************/
 /* General styles */
 .jumbotron {
-    background-image: url("https://picsum.photos/1920/1080/?random");
+    /*background-image: url("https://picsum.photos/1920/1080/?random");*/
+    /*background-image: url("/img/DSCN1849.JPG");*/
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    background-color: #04acff;
     min-height: 100vh;
 }
 
@@ -32,18 +34,22 @@ textarea {
     resize: none;
 }
 
+.header-bg-dark {
+    background-color: #04acff;
+}
+
 /*******************************************************************/
 /* About us styles */
 .st-carousel-img-0 {
-    background-image: url("https://picsum.photos/1024/576/");
+    background-image: url("/img/img_1.jpg");
 }
 
 .st-carousel-img-1 {
-    background-image: url("https://picsum.photos/1024/575/");
+    background-image: url("/img/img_2.JPG");
 }
 
 .st-carousel-img-2 {
-    background-image: url("https://picsum.photos/1024/574/");
+    background-image: url("/img/reunion_cddv_2017.jpg");
 }
 
 .st-carousel-image {
