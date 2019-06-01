@@ -39,17 +39,29 @@ textarea {
 }
 
 /*******************************************************************/
+/* Jumbotron styles */
+.st-cddv-logo {
+    max-width: 728px;
+    height: 270px;
+    background-image: url("../img/cddv-logo.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 10px auto;
+}
+
+/*******************************************************************/
 /* About us styles */
 .st-carousel-img-0 {
-    background-image: url("/img/img_1.jpg");
+    background-image: url("../img/img_1.jpg");
 }
 
 .st-carousel-img-1 {
-    background-image: url("/img/img_2.JPG");
+    background-image: url("../img/img_2.JPG");
 }
 
 .st-carousel-img-2 {
-    background-image: url("/img/reunion_cddv_2017.jpg");
+    background-image: url("../img/reunion_cddv_2017.jpg");
 }
 
 .st-carousel-image {
