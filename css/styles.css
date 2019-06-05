@@ -10,6 +10,10 @@
     min-height: 100vh;
 }
 
+.st-jumbotron-background {
+    background-image: url("../img/gdd-background.jpg");
+}
+
 section {
     padding-top: 4rem;
 }
@@ -50,6 +54,14 @@ textarea {
     margin: 10px auto;
 }
 
+.st-topnav {
+    background-color: #171133c9;
+}
+
+.st-call-to-action {
+
+}
+
 /*******************************************************************/
 /* About us styles */
 .st-carousel-img-0 {
@@ -88,15 +100,15 @@ textarea {
 }
 
 .st-member-img-0 {
-    background-image: url("../img/marco.jpg");
+    background-image: url("../img/ashley.jpg");
 }
 
 .st-member-img-1 {
-    background-image: url("../img/slam.jpg");
+    background-image: url("../img/danny.jpg");
 }
 
 .st-member-img-2 {
-    background-image: url("../img/moises.jpg");
+    background-image: url("../img/daniel.jpg");
 }
 
 .st-member-title {
