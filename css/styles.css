@@ -88,6 +88,11 @@ textarea {
     height: 300px;
 }
 
+.st-text-container {
+    max-width: 730px;
+    margin: 0 auto;
+}
+
 /*******************************************************************/
 /* Members styles */
 .st-member-card {
