@@ -135,7 +135,7 @@ textarea {
     max-width: 200px;
     height: 50px;
     background-position: center;
-    background-size: cover;
+    background-size: 82% auto;
     background-repeat: no-repeat;
     margin: 10px auto;
 }
