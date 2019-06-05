@@ -63,7 +63,8 @@ textarea {
     height: 74px;
     text-align: center;
     text-transform: uppercase;
-    vertical-align: middle;
+    margin: 0 auto;
+    font-weight: 400; /* Tal vez poner el texto más fuerte */
 }
 
 /*******************************************************************/
