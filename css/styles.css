@@ -131,7 +131,30 @@ textarea {
 
 /*******************************************************************/
 /* Sponsors styles */
+.st-sponsor-image {
+    max-width: 200px;
+    height: 50px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 10px auto;
+}
 
+.st-intec {
+    background-image: url("../img/intec.png");
+}
+
+.st-unity {
+    background-image: url("../img/unity.png");
+}
+
+.st-checkbox {
+    background-image: url("../img/checkbox.jpg");
+}
+
+.st-meta {
+    background-image: url("../img/meta.png");
+}
 
 /*******************************************************************/
 /* Footer styles */
