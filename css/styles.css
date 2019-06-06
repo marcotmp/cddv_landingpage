@@ -6,7 +6,7 @@
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    background-color: #04acff;
+    background-color: #171033;
     min-height: 100vh;
 }
 
@@ -89,7 +89,7 @@ textarea {
 }
 
 .st-text-container {
-    max-width: 730px;
+    max-width: 830px;
     margin: 0 auto;
 }
 
