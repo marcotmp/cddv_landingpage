@@ -1,0 +1,183 @@
+/*******************************************************************/
+/* General styles */
+.jumbotron {
+    /*background-image: url("https://picsum.photos/1920/1080/?random");*/
+    /*background-image: url("/img/DSCN1849.JPG");*/
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #171033;
+    min-height: 100vh;
+}
+
+.st-jumbotron-background {
+    background-image: url("../img/gdd-background.jpg");
+}
+
+section {
+    padding-top: 4em;
+    min-height: 100vh;
+    text-align: center;
+}
+
+section h2
+{
+    margin: auto;
+    margin-bottom:1em;
+    border-bottom: 1px solid #04acff;
+    width: fit-content;
+}
+
+#section-newsletter {
+    padding-top: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Rubik', sans-serif;
+}
+
+h2 {
+    margin-bottom: 55px;
+}
+
+textarea {
+    resize: none;
+}
+
+.header-bg-dark {
+    background-color: #04acff;
+}
+
+/*******************************************************************/
+/* Jumbotron styles */
+.st-cddv-logo {
+    max-width: 728px;
+    height: 270px;
+    background-image: url("../img/cddv-logo.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 10px auto;
+}
+
+.st-topnav {
+    background-color: #110d27;
+}
+
+.st-call-to-action {
+    width: 300px;
+    height: 74px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0 auto;
+    font-weight: 400; /* Tal vez poner el texto más fuerte */
+}
+
+/*******************************************************************/
+/* About us styles */
+.st-carousel-img-0 {
+    background-image: url("../img/img_1.jpg");
+}
+
+.st-carousel-img-1 {
+    background-image: url("../img/img_2.jpg");
+}
+
+.st-carousel-img-2 {
+    background-image: url("../img/reunion_cddv_2017.jpg");
+}
+
+.st-carousel-image {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 300px;
+}
+
+.st-text-container {
+    max-width: 830px;
+    margin: 0 auto;
+}
+
+/*******************************************************************/
+/* Members styles */
+.st-member-card {
+    width: 300px;
+    border: none;
+}
+
+.st-member-card-img {
+    width: 230px;
+    height: 230px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.st-member-img-0 {
+    background-image: url("../img/ashley.jpg");
+}
+
+.st-member-img-1 {
+    background-image: url("../img/danny.jpg");
+}
+
+.st-member-img-2 {
+    background-image: url("../img/daniel.jpg");
+}
+
+.st-member-title {
+    font-size: 1.125rem;
+    color: black;
+}
+
+.st-member-text {
+    font-size: 0.9375rem;
+}
+
+.st-member-subtitle {
+    font-size: 0.9375rem;
+}
+
+.st-social-button {
+    color: white;
+    margin: 0 5px;
+}
+
+/*******************************************************************/
+/* Sponsors styles */
+.st-sponsor-image {
+    max-width: 100%;
+    height: 200px;
+    background-position: center;
+    background-size: 82% auto;
+    background-repeat: no-repeat;
+    margin: 10px auto;
+}
+
+.st-intec {
+    background-image: url("../img/intec.png");
+}
+
+.st-unity {
+    background-image: url("../img/unity.png");
+}
+
+.st-checkbox {
+    background-image: url("../img/checkbox.png");
+}
+
+.st-meta {
+    background-image: url("../img/meta.png");
+}
+
+/*******************************************************************/
+/* Footer styles */
+.st-social-button:hover {
+    color: lightgray;
+}
