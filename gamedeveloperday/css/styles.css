@@ -24,7 +24,7 @@ section h2
 {
     margin: auto;
     margin-bottom:1em;
-    border-bottom: 1px solid #04acff;
+    1border-bottom: 1px solid #04acff;
     width: fit-content;
 }
 
@@ -129,6 +129,21 @@ textarea {
 
 .st-member-img-2 {
     background-image: url("../img/daniel.jpg");
+}
+
+.st-member-img-3 {
+    background-image: url("../img/marco.jpg");
+}
+
+.st-member-img-4 {
+    background-image: url("../img/pablo.jpg");
+}
+
+.st-member-img-5 {
+    background-image: url("../img/andres.jpg");
+}
+.st-member-img-6 {
+    background-image: url("../img/fidelsoto.png");
 }
 
 .st-member-title {
