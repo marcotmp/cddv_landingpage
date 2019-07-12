@@ -142,8 +142,13 @@ textarea {
 .st-member-img-5 {
     background-image: url("../img/andres.jpg");
 }
+
 .st-member-img-6 {
     background-image: url("../img/fidelsoto.png");
+}
+
+.st-member-img-7 {
+    background-image: url("../img/juanpablo.png");
 }
 
 .st-member-title {
@@ -162,6 +167,14 @@ textarea {
 .st-social-button {
     color: white;
     margin: 0 5px;
+}
+
+.st-table-bottom-space {
+    margin-bottom: 100px;
+}
+
+.st-h-bottom-space {
+    margin-bottom: 25px;
 }
 
 /*******************************************************************/
