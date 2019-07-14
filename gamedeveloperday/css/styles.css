@@ -15,7 +15,7 @@
 }
 
 section {
-    padding-top: 4em;
+    padding-top: 7em;
     min-height: 100vh;
     text-align: center;
 }
@@ -148,7 +148,7 @@ textarea {
 }
 
 .st-member-img-7 {
-    background-image: url("../img/juanpablo.png");
+    background-image: url("../img/juanpablo.jpg");
 }
 
 .st-member-title {
@@ -202,6 +202,10 @@ textarea {
 
 .st-meta {
     background-image: url("../img/meta.png");
+}
+
+.st-14creativo {
+    background-image: url("../img/14creativo.jpg");
 }
 
 /*******************************************************************/
