@@ -208,6 +208,11 @@ textarea {
     background-image: url("../img/14creativo.jpg");
 }
 
+.st-gregphotography {
+    background-image: url("../img/greg.jpg");
+}
+
+
 /*******************************************************************/
 /* Footer styles */
 .st-social-button:hover {
